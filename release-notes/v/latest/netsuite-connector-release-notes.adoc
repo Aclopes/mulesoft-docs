@@ -17,7 +17,7 @@ This version provides access to Anypoint Platform > Design Center, Mule 4, and S
 |===
 |Software |Version
 |Mule Runtime|4.0
-|Anypoint Studio |6.3 and later
+|Anypoint Studio |Only works with Studio 7.0.0 and newer
 |API|SuiteTalk 2016.2
 |===
 
